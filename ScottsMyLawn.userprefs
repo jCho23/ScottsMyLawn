@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{996E0D4E-02DC-4420-ADF2-CA6CE9A67D4C}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScottsMyLawn/Tests.cs">
+    <Files>
+      <File FileName="ScottsMyLawn/packages.config" Line="1" Column="1" />
+      <File FileName="ScottsMyLawn/Tests.cs" Line="58" Column="53" />
+      <File FileName="ScottsMyLawn/AppInitializer.cs" Line="30" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ScottsMyLawn" expanded="True">
+            <Node name="ScottsMyLawn" expanded="True">
+              <Node name="ScottsMyLawn" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ScottsMyLawn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
