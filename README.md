@@ -1,14 +1,14 @@
 # ScottsMyLawn
 Automation Test Scripts for Scotts
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
